@@ -1,6 +1,6 @@
 node {
 
-//defined stage for code checkin 
+//defined stage for code checkin jjoj
 stage('clone source code'){
 
 checkout scm

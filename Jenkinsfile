@@ -5,13 +5,15 @@ stage('clone source code'){
 
 checkout scm
 }
-
+  stage ('new') {
+  //hello
+  }
 }
 
 
 
 
 
-//yes .   test again 
+//yes .   test again  
 
 //////hello sjhds fjd djh fjdhj hjfdgj sjfk

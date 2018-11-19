@@ -11,11 +11,14 @@ checkout scm
   stage ('new2') {
   //hello
   }
-  
+
     stage ('new3') {
   //hello
   }
-  
+  stage ('new4') {
+//hello
+}
+
 }
 
 

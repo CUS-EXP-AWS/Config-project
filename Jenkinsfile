@@ -8,8 +8,12 @@ checkout scm
   stage ('new') {
   //hello
   }
-  
+
   stage ('new1') {
+  //hello
+  }
+
+  stage ('new3') {
   //hello
   }
 }
@@ -18,6 +22,6 @@ checkout scm
 
 
 
-//yes .   test again  
+//yes .   test again
 
 //////hello sjhds fjd djh fjdhj hjfdgj sjfk

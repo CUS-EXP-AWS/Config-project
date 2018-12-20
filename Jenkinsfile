@@ -18,7 +18,9 @@ checkout scm
   stage ('new4') {
 //hello
 }
-
+  stage ('new5') {
+//hello
+}
 }
 
 
